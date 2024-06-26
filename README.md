@@ -1,6 +1,10 @@
-Notes DApp
+![Screenshot (554)](https://github.com/PantherForce/Blockchain-notes-web-app-/assets/114012972/4bc4f5e3-6e18-4e73-94dd-7368bb4421d4)
+![Screenshot (555)](https://github.com/PantherForce/Blockchain-notes-web-app-/assets/114012972/93f2e9af-bb42-48ac-89eb-02a5c8b8b350)
+![Screenshot (556)](https://github.com/PantherForce/Blockchain-notes-web-app-/assets/114012972/5469f696-7908-45ae-907a-60e843ad3b93)
+![Screenshot (557)](https://github.com/PantherForce/Blockchain-notes-web-app-/assets/114012972/9fb4dfea-2d6a-49de-a498-f322af6c299f)
+![Screenshot (558)](https://github.com/PantherForce/Blockchain-notes-web-app-/assets/114012972/83308dfd-aea3-468c-8969-705eb3a1305f)
 
-This project is a decentralized application (DApp) that allows users to store and retrieve notes on a blockchain. It consists of a Solidity smart contract deployed on a local Ethereum test network (Ganache), a Python backend using Flask and Web3.py, and a frontend developed with HTML, CSS, and JavaScript.
+Notes DApp : This project is a decentralized application (DApp) that allows users to store and retrieve notes on a blockchain. It consists of a Solidity smart contract deployed on a local Ethereum test network (Ganache), a Python backend using Flask and Web3.py, and a frontend developed with HTML, CSS, and JavaScript.
 
 Features
 
