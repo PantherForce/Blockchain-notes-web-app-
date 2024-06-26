@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Notes DApp</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Notes DApp</h1>
+      <div class="store-note">
+        <input type="text" id="noteInput" placeholder="Enter your note" />
+        <button onclick="storeNote()">Store Note</button>
+      </div>
+      <div class="note-container">
+        <button onclick="getNote()">Get Note</button>
+        <p id="storedNote" style="display: none"></p>
+      </div>
+      <div>
+        <p id="message"></p>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
